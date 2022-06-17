@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Game.ActorModel", "Game.ActorModel\Game.ActorModel.csproj", "{1BDAC65B-C5EE-4C2D-AF90-BCFA431877AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game.Web", "Game.Web\Game.Web.csproj", "{00ACBF2D-3DF5-4E24-844B-E705405D5F2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDAC65B-C5EE-4C2D-AF90-BCFA431877AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDAC65B-C5EE-4C2D-AF90-BCFA431877AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDAC65B-C5EE-4C2D-AF90-BCFA431877AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDAC65B-C5EE-4C2D-AF90-BCFA431877AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00ACBF2D-3DF5-4E24-844B-E705405D5F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00ACBF2D-3DF5-4E24-844B-E705405D5F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00ACBF2D-3DF5-4E24-844B-E705405D5F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00ACBF2D-3DF5-4E24-844B-E705405D5F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FF528A9-7D9F-406F-BF5A-DEB765EFD0BA}
+	EndGlobalSection
+EndGlobal
